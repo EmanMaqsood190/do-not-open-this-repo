@@ -1,14 +1,10 @@
-# 🚨 do-not-open-this-repo 🚨
+![zombie veggies banner](./assets/banner(1).svg)
 
-![zombie veggies banner](./banner(1).svg)
+# 🚨 YOU SHOULDN'T HAVE CLICKED. BUT HERE YOU ARE. 🚨
 
-> ⚠️ YOU HAD ONE JOB. TURN BACK. YOU DIDN'T.
+Go on then. Scroll. I dare you. Every scroll makes it worse for you, not for me.
 
-## 🧟 WARNING: THIS REPO IS CURSED 🧟
-
-You clicked. You always click. Every single time someone says "don't," you go "but what if." That's on you now.
-
-Somewhere in this repo, a **zombie horde of sentient vegetables** is plotting. A 🥦 broccoli warlord. A 🍅 tomato with anger issues. A 🥕 carrot that has seen things it cannot unsee. They are not friendly. They do not want your star. They want your soul, and possibly your commit history.
+You saw a repo called **"do-not-open-this-repo"** and your brain went *"nah, that's for other people, I'll be fine."* It wasn't a warning. It was a **dare**, and you failed it in under two seconds.
 
 ```
 🥦 🍅 🌽 🥕
@@ -16,17 +12,21 @@ Somewhere in this repo, a **zombie horde of sentient vegetables** is plotting. A
 ZOMBIE ZOMBIE ZOMBIE ZOMBIE
 ```
 
-## 🔒 Rules of This Repository
+## 🧟 WHAT'S ACTUALLY HAPPENING HERE
 
-1. **Do not** open the files.
-2. **Do not** clone this repo.
-3. **Do not** fork it, forking wakes the vegetable zombies.
-4. **Do not** star it, every star feeds them.
-5. If you have read this far, it is already too late.
+A **zombie horde of sentient vegetables** has taken over this repository. A 🥦 broccoli warlord runs the show. A 🍅 tomato with unresolved anger issues guards the README. A 🥕 carrot that has seen things — things it cannot unsee, things it will not talk about — watches the commit history. They don't want your star. They want your soul, and possibly your SSH keys.
 
-## 📂 What's Actually in Here
+## 🔒 THE RULES (you're already breaking them)
 
-Nothing. Absolutely nothing useful. You wasted your time reading this. Congratulations, you are now part of the lore.
+1. **Do not** open the files. Too late, you're reading the file.
+2. **Do not** clone this repo. Your fingers are already hovering over `git clone`, aren't they.
+3. **Do not** fork it — forking wakes the vegetable zombies.
+4. **Do not** star it — every star feeds them.
+5. If you've read this far, it's already too late. Might as well keep going.
+
+## 📂 WHAT'S ACTUALLY IN HERE
+
+Nothing. Absolutely nothing useful. You wasted your time reading this. Congratulations, you are now permanently part of the lore.
 
 ```
 😈 you, right now, still reading:
@@ -35,15 +35,16 @@ Nothing. Absolutely nothing useful. You wasted your time reading this. Congratul
 └─────────────────────────────┘
 ```
 
-## 🏆 Achievements Unlocked
+## 🏆 ACHIEVEMENTS UNLOCKED
 
 - [x] Ignored a direct warning
 - [x] Opened a repo titled "do-not-open"
 - [x] Read an entire README that told you to stop reading
-- [ ] Turned back while you still could
+- [x] Started planning to clone it anyway
+- [ ] Turned back while you still could — **you never had this option**
 
 ---
 
-![still scrolling](./footer.svg)
+![still scrolling](./assets/footer.svg)
 
-*This repository is not responsible for any regret, existential dread, or sudden cravings for vegetable soup caused by proceeding further.*
+*This repository is not responsible for any regret, existential dread, or sudden cravings for vegetable soup caused by proceeding further. You were warned. Twice. You kept going. Twice.*
