@@ -1,4 +1,4 @@
-![zombie veggies banner](./assets/banner(1).svg)
+![zombie veggies banner](./assets/banner.svg)
 
 # 🚨 YOU SHOULDN'T HAVE CLICKED. BUT HERE YOU ARE. 🚨
 
@@ -41,7 +41,7 @@ Nothing. Absolutely nothing useful. You wasted your time reading this. Congratul
 - [x] Opened a repo titled "do-not-open"
 - [x] Read an entire README that told you to stop reading
 - [x] Started planning to clone it anyway
-- [ ] Turned back while you still could — **you never had this option**
+- [ ] Turned back while you still could, **you never had this option**
 
 ---
 
