@@ -1,6 +1,6 @@
 # 🚨 do-not-open-this-repo 🚨
 
-![zombie veggies banner](./banner.svg)
+![zombie veggies banner](./banner(1).svg)
 
 > ⚠️ YOU HAD ONE JOB. TURN BACK. YOU DIDN'T.
 
